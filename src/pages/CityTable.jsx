@@ -73,6 +73,7 @@ const CityTable = () => {
             <tr>
               <th className="p-3">City</th>
               <th className="p-3">Province</th>
+              <th className="p-3">Comerca</th>
               <th className="p-3">Population</th>
             </tr>
           </thead>
@@ -84,6 +85,7 @@ const CityTable = () => {
               >
                 <td className="p-3">{city.name}</td>
                 <td className="p-3">{city.province}</td>
+                <td className="p-3">{city.comarca}</td>
                 <td className="p-3">{city.population.toLocaleString()}</td>
               </tr>
             ))}
