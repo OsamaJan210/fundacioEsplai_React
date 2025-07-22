@@ -1,0 +1,8 @@
+[
+  { "name": "Barcelona", "province": "Barcelona", "population": 150000 },
+  { "name": "Reus", "province": "Tarragona", "population": 100000 },
+  { "name": "Lleida", "province": "Lérida", "population": 110000 },
+  { "name": "Girona", "province": "Gerona", "population": 95000 },
+  { "name": "Tortosa", "province": "Tarragona", "population": 40000 },
+  { "name": "Manresa", "province": "Barcelona", "population": 75000 }
+]

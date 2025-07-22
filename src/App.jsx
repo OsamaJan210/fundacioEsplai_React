@@ -3,6 +3,7 @@ import ColorCircles from './pages/ColorCircles';
 import Excersice2 from './pages/Excersice2';
 import Login from './pages/Login';
 import Calculator from './pages/Calculator';
+import CityTable from './pages/CityTable';
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
 
       <div className="text-lg font-semibold text-blue-600 mb-2 mt-6">Task 2</div>
       <Excersice2 />
+
+      <div className="text-lg font-semibold text-blue-600 mb-2 mt-6">Task 3</div>
+      <CityTable />
 
       <div className="text-lg font-semibold text-blue-600 mb-2 mt-6">Task 4</div>
       <Calculator />
